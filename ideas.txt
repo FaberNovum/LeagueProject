@@ -1,0 +1,3 @@
+1. Winrate by teammate -> Who do you win with the most?
+2. I think i can use the match.by_id endpoint to get all the information I need for a meaty dataframe
+3. Is there a way to define who is a friend?
